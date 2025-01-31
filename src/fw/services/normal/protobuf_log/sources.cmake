@@ -1,0 +1,12 @@
+sources.cmake
+protobuf_log.h
+protobuf_log_activity_sessions.h
+protobuf_log_hr.h
+protobuf_log_private.h
+protobuf_log_test.h
+protobuf_log_util.h
+protobuf_log.c
+protobuf_log_activity_sessions.c
+protobuf_log_hr.c
+protobuf_log_test.c
+protobuf_log_util.c

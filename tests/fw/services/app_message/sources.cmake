@@ -1,0 +1,4 @@
+sources.cmake
+test_app_message_receiver.c
+test_app_message_sender.c
+test_app_session_capabilities.c

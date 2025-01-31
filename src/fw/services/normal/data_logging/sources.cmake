@@ -1,0 +1,12 @@
+sources.cmake
+data_logging_service.h
+dls_endpoint.h
+dls_list.h
+dls_private.h
+dls_storage.h
+dls_command.c
+dls_endpoint.c
+dls_list.c
+dls_main.c
+dls_storage.c
+dls_syscalls.c

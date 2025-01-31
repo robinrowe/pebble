@@ -1,0 +1,17 @@
+sources.cmake
+compositor_dot_transitions.h
+compositor_launcher_app_transitions.h
+compositor_modal_transitions.h
+compositor_peek_transitions.h
+compositor_port_hole_transitions.h
+compositor_round_flip_transitions.h
+compositor_shutter_transitions.h
+compositor_slide_transitions.h
+compositor_dot_transitions.c
+compositor_launcher_app_transitions.c
+compositor_modal_transitions.c
+compositor_peek_transitions.c
+compositor_port_hole_transitions.c
+compositor_round_flip_transitions.c
+compositor_shutter_transitions.c
+compositor_slide_transitions.c

@@ -1,0 +1,10 @@
+sources.cmake
+boot_tests.h
+firmware.h
+flash_region.h
+fw_copy.h
+pebble_errors.h
+boot_tests.c
+fw_copy.c
+hardfault_handler.c
+main.c

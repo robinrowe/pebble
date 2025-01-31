@@ -1,0 +1,5 @@
+sources.cmake
+compositor_app_slide_transitions.h
+compositor_modal_slide_transitions.h
+compositor_app_slide_transitions.c
+compositor_modal_slide_transitions.c

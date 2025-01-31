@@ -1,0 +1,2 @@
+sources.cmake
+setlocale.c

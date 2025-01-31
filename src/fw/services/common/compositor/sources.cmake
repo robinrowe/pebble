@@ -1,0 +1,12 @@
+sources.cmake
+compositor.h
+compositor_display.h
+compositor_dma.h
+compositor_private.h
+compositor_transitions.h
+screenshot_pp.h
+compositor.c
+compositor_display.c
+compositor_dma.c
+compositor_transitions.c
+screenshot_pp.c

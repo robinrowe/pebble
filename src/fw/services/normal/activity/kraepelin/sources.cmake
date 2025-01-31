@@ -1,0 +1,3 @@
+sources.cmake
+activity_algorithm_kraepelin.h
+activity_algorithm_kraepelin.c

@@ -1,0 +1,10 @@
+sources.cmake
+shell_sdk.h
+watchface.h
+prefs.c
+shell.c
+shell_event_loop.c
+shell_sdk.c
+stubs.c
+system_app_state_machine.c
+watchface.c

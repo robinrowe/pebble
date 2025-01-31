@@ -1,0 +1,17 @@
+sources.cmake
+alarm_popup.h
+bluetooth_pairing_ui.h
+crashed_ui.h
+health_tracking_ui.h
+phone_formatting.h
+phone_ui.h
+switch_worker_ui.h
+wakeup_ui.h
+alarm_popup.c
+bluetooth_pairing_ui.c
+crashed_ui.c
+health_tracking_ui.c
+phone_formatting.c
+phone_ui.c
+switch_worker_ui.c
+wakeup_ui.c

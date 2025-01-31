@@ -1,0 +1,17 @@
+sources.cmake
+accessory_manager.h
+smartstrap_attribute.h
+smartstrap_comms.h
+smartstrap_connection.h
+smartstrap_link_control.h
+smartstrap_profiles.h
+smartstrap_state.h
+accessory_manager.c
+smartstrap_attribute.c
+smartstrap_comms.c
+smartstrap_connection.c
+smartstrap_generic_service.c
+smartstrap_link_control.c
+smartstrap_profiles.c
+smartstrap_raw_data.c
+smartstrap_state.c

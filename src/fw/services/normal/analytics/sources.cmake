@@ -1,0 +1,9 @@
+sources.cmake
+analytics.c
+analytics_data_syscalls.c
+analytics_event.c
+analytics_external.c
+analytics_heartbeat.c
+analytics_logging.c
+analytics_metric.c
+analytics_storage.c

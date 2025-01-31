@@ -1,0 +1,8 @@
+sources.cmake
+test_default_kernel_receiver.c
+test_meta_endpoint.c
+test_session.c
+test_session_receive_router.c
+test_session_remote_version.c
+test_session_send_buffer.c
+test_session_send_queue.c

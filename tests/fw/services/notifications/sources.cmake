@@ -1,0 +1,6 @@
+sources.cmake
+test_ancs_filtering.c
+test_ancs_notifications.c
+test_ancs_notifications_util.c
+test_nexmo.c
+test_notification_storage.c

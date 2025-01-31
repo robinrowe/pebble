@@ -1,0 +1,4 @@
+sources.cmake
+test_mfg_serials.c
+test_snowy_mfg_info.c
+test_spalding_mfg_info.c

@@ -1,0 +1,11 @@
+sources.cmake
+dictation_session.h
+dictation_session_private.h
+loading_layer.h
+transcription_dialog.h
+voice_window.h
+voice_window_private.h
+dictation_session.c
+loading_layer.c
+transcription_dialog.c
+voice_window.c

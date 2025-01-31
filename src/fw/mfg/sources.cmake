@@ -1,0 +1,9 @@
+sources.cmake
+mfg_command.h
+mfg_info.h
+mfg_serials.h
+results_ui.h
+mfg_command.c
+mfg_info.c
+mfg_serials.c
+results_ui.c

@@ -1,0 +1,10 @@
+sources.cmake
+gfx_test_list.h
+gfx_tests.h
+gfx_test_circles.c
+gfx_test_gpath_masking.c
+gfx_test_rotated_bitmap.c
+gfx_test_single_line.c
+gfx_test_text.c
+gfx_test_text_clipping.c
+gfx_tests.c

@@ -1,0 +1,14 @@
+sources.cmake
+atoi.c
+memchr.c
+memcmp.c
+memcpy.c
+memset.c
+strcat.c
+strchr.c
+strcmp.c
+strcpy.c
+strlen.c
+strspn.c
+strstr.c
+strtol.c

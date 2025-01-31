@@ -1,0 +1,9 @@
+sources.cmake
+vibe_client.h
+vibe_intensity.h
+vibe_score.h
+vibe_score_info.h
+vibe_client.c
+vibe_intensity.c
+vibe_score.c
+vibe_score_info.c

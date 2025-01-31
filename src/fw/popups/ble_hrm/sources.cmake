@@ -1,0 +1,7 @@
+sources.cmake
+ble_hrm_reminder_popup.h
+ble_hrm_sharing_popup.h
+ble_hrm_stop_sharing_popup.h
+ble_hrm_reminder_popup.c
+ble_hrm_sharing_popup.c
+ble_hrm_stop_sharing_popup.c

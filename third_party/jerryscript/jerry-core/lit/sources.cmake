@@ -1,0 +1,10 @@
+sources.cmake
+lit-char-helpers.h
+lit-globals.h
+lit-magic-strings.h
+lit-magic-strings.inc.h
+lit-strings.h
+lit-unicode-ranges.inc.h
+lit-char-helpers.c
+lit-magic-strings.c
+lit-strings.c

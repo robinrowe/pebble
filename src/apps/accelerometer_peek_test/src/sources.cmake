@@ -1,0 +1,2 @@
+sources.cmake
+accelerometer_peek_test.c

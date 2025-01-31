@@ -1,0 +1,12 @@
+sources.cmake
+qemu_accel.h
+qemu_battery.h
+qemu_serial.h
+qemu_serial_private.h
+qemu_settings.h
+qemu_accel.c
+qemu_battery.c
+qemu_serial.c
+qemu_serial_util.c
+qemu_settings.c
+qemu_touch.c

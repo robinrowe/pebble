@@ -1,0 +1,11 @@
+sources.cmake
+filesystem_regions.h
+filesystem_regions_n25q.h
+flash_region.h
+flash_region_def_helper.h
+flash_region_mt25q.h
+flash_region_mx25u.h
+flash_region_n25q.h
+flash_region_s29vs.h
+filesystem_regions.c
+flash_region.c

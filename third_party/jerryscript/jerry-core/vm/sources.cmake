@@ -1,0 +1,12 @@
+sources.cmake
+opcodes.h
+vm-defines.h
+vm-stack.h
+vm.h
+opcodes-ecma-arithmetics.c
+opcodes-ecma-bitwise.c
+opcodes-ecma-equality.c
+opcodes-ecma-relational.c
+opcodes.c
+vm-stack.c
+vm.c

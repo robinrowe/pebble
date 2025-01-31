@@ -1,0 +1,9 @@
+sources.cmake
+jmem-allocator-internal.h
+jmem-allocator.h
+jmem-config.h
+jmem-heap.h
+jmem-poolman.h
+jmem-allocator.c
+jmem-heap.c
+jmem-poolman.c

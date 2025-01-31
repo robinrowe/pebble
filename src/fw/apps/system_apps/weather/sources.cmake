@@ -1,0 +1,9 @@
+sources.cmake
+weather_app.h
+weather_app_layout.h
+weather_app_splash_screen.h
+weather_app_warning_dialog.h
+weather_app.c
+weather_app_layout.c
+weather_app_splash_screen.c
+weather_app_warning_dialog.c

@@ -1,0 +1,12 @@
+sources.cmake
+mfg_app_registry.h
+mfg_bt_test_app.h
+mfg_display_burnin.h
+mfg_flash_test.h
+mfg_func_test_battery.h
+mfg_func_test_black.h
+mfg_func_test_buttons.h
+mfg_func_test_version.h
+mfg_bt_test_app.c
+mfg_display_burnin.c
+mfg_flash_test.c

@@ -1,0 +1,9 @@
+sources.cmake
+accessory_idle_mode.h
+accessory_imaging.h
+accessory_manager.h
+accessory_mfg_mode.h
+accessory_idle_mode.c
+accessory_imaging.c
+accessory_manager.c
+accessory_mfg_mode.c

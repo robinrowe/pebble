@@ -1,0 +1,3 @@
+sources.cmake
+test_analytics_event.c
+test_analytics_heartbeat.c

@@ -1,0 +1,6 @@
+sources.cmake
+ble_hrm.h
+bluetooth_persistent_storage_v1_impl.h
+bluetooth_persistent_storage_v2_impl.h
+ble_hrm.c
+bluetooth_persistent_storage.c

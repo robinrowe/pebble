@@ -1,0 +1,4 @@
+sources.cmake
+test_battery_ui_fsm.c
+test_display_calibration_prompt.c
+test_normal_system_app_state_machine.c

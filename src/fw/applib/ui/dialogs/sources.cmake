@@ -1,0 +1,16 @@
+sources.cmake
+actionable_dialog.h
+actionable_dialog_private.h
+bt_conn_dialog.h
+confirmation_dialog.h
+dialog.h
+dialog_private.h
+expandable_dialog.h
+simple_dialog.h
+actionable_dialog.c
+bt_conn_dialog.c
+confirmation_dialog.c
+dialog.c
+dialog_private.c
+expandable_dialog.c
+simple_dialog.c

@@ -1,0 +1,6 @@
+sources.cmake
+test_ble_hrm.c
+test_ble_root_keys.c
+test_bluetooth_persistent_storage.c
+test_bluetooth_persistent_storage_prf.c
+test_local_addr.c

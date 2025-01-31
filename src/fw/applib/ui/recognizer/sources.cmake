@@ -1,0 +1,10 @@
+sources.cmake
+recognizer.h
+recognizer_impl.h
+recognizer_list.h
+recognizer_manager.h
+recognizer_private.h
+tap.h
+recognizer.c
+recognizer_manager.c
+tap.c

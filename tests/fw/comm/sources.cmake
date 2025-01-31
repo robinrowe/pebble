@@ -1,0 +1,17 @@
+sources.cmake
+ancs_test_data.h
+test_ams.c
+test_ams_util.c
+test_ancs.c
+test_ancs_app_storage.c
+test_ancs_util.c
+test_bt_conn_mgr.c
+test_gap_le_advert.c
+test_gap_le_connect.c
+test_gatt_client_accessors.c
+test_gatt_client_discovery.c
+test_gatt_client_subscriptions.c
+test_gatt_service_changed_client.c
+test_gatt_service_changed_server.c
+test_kernel_le_client.c
+test_ppogatt.c

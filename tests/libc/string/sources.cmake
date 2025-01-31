@@ -1,0 +1,15 @@
+sources.cmake
+test_atoi.c
+test_ctype.c
+test_memchr.c
+test_memcmp.c
+test_memcpy.c
+test_memset.c
+test_strcat.c
+test_strchr.c
+test_strcmp.c
+test_strcpy.c
+test_strlen.c
+test_strspn.c
+test_strstr.c
+test_strtol.c

@@ -1,0 +1,13 @@
+sources.cmake
+advanced_logging.h
+debug.h
+debug_reboot_reason.h
+flash_logging.h
+power_tracking.h
+setup.h
+advanced_logging.c
+app_logging.c
+debug.c
+debug_reboot_reason.c
+power_tracking.c
+setup.c

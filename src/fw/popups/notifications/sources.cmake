@@ -1,0 +1,6 @@
+sources.cmake
+notification_window.h
+notification_window_private.h
+notifications_presented_list.h
+notification_window.c
+notifications_presented_list.c
